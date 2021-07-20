@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.container {
+  background-color: white;
+  width: 300px;
+  height: 450px;
+  border-radius: 15px;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+p {
+  font-size: 130px;
+}
+
+#card {
+  text-align: left;
+}
+#card2 {
+  margin-left: 200px;
+}
+♥ {
+  color: red;
+}
